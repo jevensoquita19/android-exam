@@ -17,13 +17,16 @@
             android:name=".presentation.screens.person_list.PersonListActivity"
             android:exported="true"
             android:label="@string/app_name"
-            android:theme="@style/Theme.MyApplication.NoActionBar">
+            android:theme="@style/Theme.MyApplication">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".presentation.screens.person_details.PersonDetailsActivity"
+            android:theme="@style/Theme.MyApplication" />
     </application>
 
 </manifest>

@@ -39,4 +39,9 @@ class PersonModule {
     fun provideSavePersonLocalUseCase(personDAO: PersonDAO): SavePersonLocalUseCase {
         return SavePersonLocalUseCase(personDAO)
     }
+
+    @Provides
+    fun provideGetPersonListLocalUseCase(personDAO: PersonDAO): GetPersonLocalUseCase {
+        return GetPersonLocalUseCase(personDAO)
+    }
 }

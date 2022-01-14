@@ -3,9 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Android Projects/Exam2/android-exam/CybillTek/app/src/main/res/layout/activity_main.xml" value="0.11302083333333333" />
+        <entry key="..\:/Android Projects/Exam2/android-exam/CybillTek/app/src/main/res/layout/activity_person_details.xml" value="0.264" />
         <entry key="..\:/Android Projects/Exam2/android-exam/CybillTek/app/src/main/res/layout/activity_person_list.xml" value="0.25416666666666665" />
         <entry key="..\:/Android Projects/Exam2/android-exam/CybillTek/app/src/main/res/layout/content_main.xml" value="0.2324074074074074" />
         <entry key="..\:/Android Projects/Exam2/android-exam/CybillTek/app/src/main/res/layout/fragment_first.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android Projects/Exam2/android-exam/CybillTek/app/src/main/res/layout/item_person.xml" value="0.264" />
       </map>
     </option>
   </component>

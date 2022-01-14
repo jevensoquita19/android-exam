@@ -2,9 +2,10 @@ package com.example.myapplication.data.local.person
 
 import androidx.room.Entity
 import androidx.room.PrimaryKey
+import java.io.Serializable
 
 @Entity(tableName = "person")
-class Person {
+class Person: Serializable {
 
     @PrimaryKey
     var email: String = ""
