@@ -12,7 +12,6 @@
 
         <androidx.appcompat.widget.AppCompatTextView
             android:gravity="start"
-            android:text="sadas"
             android:id="@+id/tvName"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
